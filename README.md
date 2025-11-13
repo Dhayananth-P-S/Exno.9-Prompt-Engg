@@ -41,6 +41,9 @@ Save different versions of the videos and compare the results to understand how 
 
 
 https://github.com/user-attachments/assets/85dd5c29-8e62-40ea-a4a0-7f79153b08f9
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/90809706-a099-44b5-aaf7-809758f72739" />
+
+
 
 # 2.Prompt Given:
 ```
@@ -49,6 +52,8 @@ https://github.com/user-attachments/assets/85dd5c29-8e62-40ea-a4a0-7f79153b08f9
 
 
 https://github.com/user-attachments/assets/e8f12e53-08fd-46bc-b671-f92f26e2a59b
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d1ecee8-4d69-4c94-ab2f-75b4c8db98fb" />
+
 
 
 # Conclusion
