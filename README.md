@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
+# Date: 13.11.25
+# Register no.:212223040039
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -34,13 +34,32 @@ Save different versions of the videos and compare the results to understand how 
 
 # Result: The Prompt of the above task executed successfully
 
+# 1.Prompt Given:
+```
+"A breathtaking cinematic shot of a high-speed chase unfolding in a futuristic neon-lit megacity at night. The camera follows closely behind a sleek red supercar accelerating down a wide, rain-soaked street, its taillights glowing intensely and reflecting sharply on the wet asphalt. Towering skyscrapers filled with glowing holographic billboards and animated advertisements line both sides, casting vibrant blue and cyan light across the scene. Motion blur enhances the sense of extreme velocity, with streaks of light trailing from buildings and vehicles ahead. A dramatic sense of depth pulls the viewer into the vanishing point, while mist and fine rain particles add atmosphere. Shot with a wide-angle cinematic lens, ultra-realistic rendering, high contrast, depth-of-field focus on the car, and dynamic lighting that emphasizes the energy of a futuristic high-speed chase."
+```
 
 
+https://github.com/user-attachments/assets/85dd5c29-8e62-40ea-a4a0-7f79153b08f9
+
+# 2.Prompt Given:
+```
+“A highly realistic cinematic shot of a majestic waterfall cascading down moss-covered cliffs into a crystal-clear river below. The camera slowly pans upward, showing mist rising and sunlight filtering through the trees, creating rainbow reflections. Surrounding nature includes lush green foliage, rocks glistening with water, and birds flying nearby. The sound of rushing water echoes through the valley. The lighting is natural and golden-hour warm, with ultra-realistic details, smooth motion, and 4K clarity.”
+```
 
 
+https://github.com/user-attachments/assets/e8f12e53-08fd-46bc-b671-f92f26e2a59b
 
 
+# Conclusion
+The experiment demonstrates that prompt specificity and richness directly impact the realism and cinematic quality of AI-generated videos in Google Veo 3.
 
+The simple prompt effectively depicted the intended action but produced a plain, documentary-like result.
+
+The detailed prompt elevated the video’s atmosphere, adding cinematic motion, realistic lighting, and visual depth.
+
+Thus, structured and descriptive prompts significantly enhance the coherence, realism, and emotional tone of AI-generated video content.
 
 # Result:
+The Prompt of the above task executed successfully
 
